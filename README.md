@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flask, Django**
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Machine Learning, Data Science**
 
 - ⚡ Fun fact **Love to watch Anime**
 
