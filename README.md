@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
 
-- 📫 How to reach me **rahul561singh@gmail.com**
-
 - ⚡ Fun fact **Love to watch Anime**
 
 <h3 align="left">Connect with me:</h3>
