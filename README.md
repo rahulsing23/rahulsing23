@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MR DC**
 
-- 🌱 I’m currently learning **Flask, Django**
+- 🌱 I’m currently learning **Flask, Django, React**
 
 - 💬 Ask me about **Machine Learning, Data Science**
 
