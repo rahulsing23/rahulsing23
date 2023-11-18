@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsing23&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsing23" /> </p>
 
-- 🔭 I’m currently working on **MR DC**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Flask, Django, React**
 
