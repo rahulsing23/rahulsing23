@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Flask, Django, React**
+- 🌱 I’m currently learning **React.js, Next.js, MongoDB**
 
 - 💬 Ask me about **Machine Learning, Data Science**
 
