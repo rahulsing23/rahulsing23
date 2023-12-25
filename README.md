@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsing23&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsing23" /> </p>
 
--  **Learning :** Full-Stack Development | Open Source | MERN | APIs
+-  **Learning :** Machine Learning | Data Science | Full-Stack Development | Open Source | MERN | APIs
 
 -  **Framework :** React.js | Next.js | TS | Flask | Django
 
