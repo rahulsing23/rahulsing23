@@ -15,7 +15,7 @@
 
 -  **Languages :** C | C++ | Python | Java(Basic) | Javascript
 
--  **Detailed Knowledge :** Machine Learning, Data Science
+-  **Achievemen :** Smart India Hackathon 2023, Airbus India Hackathon 2024 Finalist
 
 -  **Hobbies :** Love to watch Anime
 
