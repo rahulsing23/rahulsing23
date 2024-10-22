@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
-<h3 align="center">A passionate Machine Learning and Software Developer </h3>
+<h3 align="center">A passionate Full Stack Developer and Machine Learning Expert </h3>
 
 <br/>
 
