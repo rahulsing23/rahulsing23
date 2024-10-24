@@ -11,7 +11,7 @@
 
 -  **Learning :**  MERN | Full-Stack Development | Machine Learning | Open Source | APIs
 
--  **Framework :** Odoo | React.js | Next.js | TS | Flask | Django
+-  **Framework :**  React.js | Next.js | JS | Flask | Django
 
 -  **Languages :** C | C++ | Python | Java(Basic) | Javascript
 
