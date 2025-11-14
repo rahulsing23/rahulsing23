@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsing23&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsing23" /> </p>
 
--  **Learning :**  MERN | Full-Stack Development | Machine Learning | Java Development | APIs
+-  **Learning :**  Java Development | Full-Stack Development | Machine Learning | Java Development | APIs
 
--  **Framework :**  React.js | Next.js | JS | Flask | Django | SpringBoot | JSP | Servlet 
+-  **Framework :**  React.js | Next.js | JS  | SpringBoot 
 
 -  **Languages :** C | C++ | Python | Java(Basic) | Javascript
 
