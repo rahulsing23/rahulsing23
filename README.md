@@ -13,7 +13,7 @@
 
 -  **Framework :**  React.js | Next.js | JS  | SpringBoot 
 
--  **Languages :** C | C++ | Python | Java(Basic) | Javascript
+-  **Languages :** C | C++ | Python | Java | Javascript
 
 -  **Achievement :** Smart India Hackathon 2023, Airbus India Hackathon 2024 Finalist
 
